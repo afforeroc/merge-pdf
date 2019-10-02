@@ -27,5 +27,7 @@ python merge-pdf.py
 ```
 2. The Output file is ```merged.pdf```
 
-# References
+# Sources
 * [Splitting and Merging PDFs with Python](http://www.blog.pythonlibrary.org/2018/04/11/splitting-and-merging-pdfs-with-python/)
+* [pdf995 Sample](http://www.pdf995.com/samples/pdf.pdf)
+* [A Simple PDF File](http://www.africau.edu/images/default/sample.pdf)

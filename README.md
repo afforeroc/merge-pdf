@@ -30,5 +30,5 @@ python merge-pdf.py
 ## Sources
 * [Splitting and Merging PDFs with Python](http://www.blog.pythonlibrary.org/2018/04/11/splitting-and-merging-pdfs-with-python/)
 * [The PdfFileMerger Class](https://pythonhosted.org/PyPDF2/PdfFileMerger.html)
-* [pdf995 Sample](http://www.pdf995.com/samples/pdf.pdf)
 * [A Simple PDF File](http://www.africau.edu/images/default/sample.pdf)
+* [Dummy PDF file](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
